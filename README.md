@@ -6,7 +6,8 @@
 
 <div align="center">
     
-  [![Discord](https://img.shields.io/discord/1382120201713352836?style=flat&logo=discord&logoColor=white&label=Discord)](https://discord.gg/JuKt7tPnNc) 
+  [![Discord](https://img.shields.io/discord/1382120201713352836?style=flat&logo=discord&logoColor=white&label=Discord)](https://discord.gg/JuKt7tPnNc) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fx402scan.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fx402scan?ref=badge_shield)
+
   ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/merit_systems) 
   [![GitHub Repo stars](https://img.shields.io/github/stars/Merit-Systems/x402scan?style=social)](https://github.com/Merit-Systems/x402scan) 
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -20,6 +21,9 @@
 x402 API resources can be be purchased just-in-time without a prior relationship with the seller using cryptocurrency. x402 is vision for an internet without ads or centralized intermediaries.
 
 x402scan lets you explore the ecosystem of x402 servers, see their transaction volumes and directly access their resources through an embedded wallet.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fx402scan.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fx402scan?ref=badge_large)
 
 ## Monorepo Structure
 
